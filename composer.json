@@ -1,0 +1,22 @@
+{
+    "name": "misharin-alexbear/yii2-tinymce",
+    "description": "Renders a TinyMCE WYSIWYG text editor plugin widget.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Misharin Aleksandr",
+            "email": "alexanbear@hotmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "tinymce/tinymce": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alexbear94\\tinymce\\": ""
+        }
+    }
+}
