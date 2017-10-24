@@ -12,5 +12,5 @@ use yii\web\AssetBundle;
 
 class LanguageAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/alexbear94/yii2-tinymce/langs';
+    public $sourcePath = '@vendor/misharin-alexbear/yii2-tinymce/langs';
 }
