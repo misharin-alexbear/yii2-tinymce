@@ -12,7 +12,7 @@ class TinyMce extends InputWidget
     /**
      * @var array the options for the TinyMCE JS plugin.
      * Please refer to the TinyMCE JS plugin Web page for possible options.
-     * @see http://www.tinymce.com/wiki.php/Configuration
+     * @see https://www.tinymce.com/docs/configure/
      */
     public $clientOptions = [];
     /**
