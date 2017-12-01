@@ -11,8 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "tinymce/tinymce": "*"
+        "yiisoft/yii2": "~2.0.6",
+        "tinymce/tinymce": "~4.5.2"
     },
     "autoload": {
         "psr-4": {
